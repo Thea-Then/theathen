@@ -254,6 +254,7 @@ body {
   }
   span {
     color: rgba(255, 166, 0.5);
+    margin-right: 15px;
   }
   i {
     font-size: 3rem;
