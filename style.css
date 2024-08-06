@@ -199,6 +199,7 @@ body {
   .TT-Contianer ul {
     display: flex;
     gap: 50px;
+    margin:150px;
     cursor: pointer;
   }
   .TT-btn {
