@@ -188,7 +188,7 @@ i {
   }
   .TT-Contianer ul {
     display: flex;
-    gap: 50px;
+    gap: 25px;
   }
   .TT-btn {
     display: flex;
