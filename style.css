@@ -94,7 +94,7 @@ body {
   }
   .TT-Contianer ul {
     display: flex;
-    gap: 50px;
+    gap: 25px;
     margin-bottom: 150px;
     cursor: pointer;
   }
