@@ -20,7 +20,7 @@ html {
 body {
   font-size: var(--front-size-200);
   height: 100vh;
-
+  width: 100vw;
   background-color: var(--bg-grey);
 }
 a {
@@ -56,7 +56,7 @@ i {
 
 .TT-Contianer {
   display: flex;
-  padding: 0 10px;
+  padding: 0 15px;
   flex-direction: column-reverse;
 }
 .TT-Contianer div {
@@ -102,7 +102,6 @@ i {
 }
 .TT-btn {
   display: flex;
-  width: 350px;
   margin: 25px 0;
   gap: 10px;
 }
